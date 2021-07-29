@@ -17,3 +17,6 @@ A simple PHP web system for managing an inventory of books.
 ## Usage
 * Go to http://localhost/e-book_management_system
 
+## Screenshots
+* Working of the project is shown in the screenshot folder
+
